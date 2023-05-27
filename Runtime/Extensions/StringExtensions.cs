@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace RDExtensions
+namespace RDExtensions.Extensions
 {
     public static class StringExtensions
     {

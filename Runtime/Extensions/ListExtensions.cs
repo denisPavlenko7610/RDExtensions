@@ -2,7 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 
-namespace RDExtensions
+namespace RDExtensions.Extensions
 {
     public static class ListExtensions
     {

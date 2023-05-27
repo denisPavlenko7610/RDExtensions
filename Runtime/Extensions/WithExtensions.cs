@@ -1,6 +1,6 @@
 using System;
 
-namespace RDExtensions
+namespace RDExtensions.Extensions
 {
     public static class WithExtensions
     {

@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace RDExtensions
+namespace RDExtensions.Extensions
 {
 	public static class ColorExtensions
 	{
