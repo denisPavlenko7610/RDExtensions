@@ -1,6 +1,6 @@
 {
   "name": "com.rdragon.extensions",
-  "version": "1.1.6",
+  "version": "1.0.0",
   "displayName": "RdExtensions",
   "description": "Useful extensions for Unity",
   "unity": "2020.2",
