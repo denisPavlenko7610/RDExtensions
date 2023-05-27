@@ -1,6 +1,6 @@
 using System;
 
-namespace RDTools.Extensions
+namespace RDExtensions
 {
     public static class WithExtensions
     {

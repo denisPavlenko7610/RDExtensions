@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
  
-namespace RDTools.Extensions
+namespace RDExtensions
 {
     public static class CanvasExtensions {
         public static Vector2 WorldToCanvas(this Canvas canvas, Vector3 worldPoint, Camera camera) {

@@ -1,7 +1,7 @@
 ﻿using System.Linq;
 using UnityEngine;
 
-namespace RDTools.Extensions
+namespace RDExtensions
 {
     public static class TransformExtensions
     {
