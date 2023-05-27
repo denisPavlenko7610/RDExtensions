@@ -1,8 +1,9 @@
-# RDTools
+# RDExtensions
 [![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://github.com/denisPavlenko7610/RDTools/blob/master/LICENSE.md)
 
 - Use RDExtensions nameSpace and periodically update the package 🙂
 
+Alson you can add RDTools for unity - https://github.com/denisPavlenko7610/RDTools
 
 ## GameObject extensions
 
